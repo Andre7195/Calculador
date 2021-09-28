@@ -8,3 +8,13 @@
 #titulo2{
     text-align: center;
 }
+#calcu{
+    text-align: center;
+}
+.boton{
+    width: 50px;
+}
+#input{
+    width: 210px;
+    text-align: end;
+}
